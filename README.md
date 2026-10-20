@@ -113,7 +113,7 @@ Atuo como **Tech Lead** em projetos de inovação, concebendo e entregando solu�
 Tenho interesse em projetos de **IA Generativa, Agentes de IA e produtos de alto impacto**.
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hozana-izadora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:izadoraferreir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
